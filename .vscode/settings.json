@@ -1,0 +1,32 @@
+{
+    "cSpell.words": [
+        "absf",
+        "blockset",
+        "cospuf",
+        "divf",
+        "DSPB",
+        "Falk",
+        "floatconst",
+        "Kyburz",
+        "maxf",
+        "minf",
+        "sinpuf",
+        "UTEST"
+    ],
+    "files.associations": {
+        "dsp_blockset.h": "c"
+    },
+    "terminal.integrated.profiles.windows": {
+        "MSYS2_MINGW64": {
+            "path": "C:\\msys64\\usr\\bin\\bash.exe",
+            "args": [
+                "--login",
+                "-i"
+            ],
+            "env": {
+                "MSYSTEM": "MINGW64",
+                "CHERE_INVOKING": "1"
+            }
+        }
+    },
+}
